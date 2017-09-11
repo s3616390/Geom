@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "State Library of Victoria",
+        "Description": "This is Vic lib",
+        "Image": "state-library-of-victoria_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96554911136627,
+          -37.809656808092925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Melbourne Old Gaol",
+        "Description": "This melb old gaol",
+        "Image": "Mel_Gaol.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9651575088501,
+          -37.807842850086864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Ntional Gallery of Victoria",
+        "Description": "This is natio gaal vic",
+        "Image": "NGV_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96801137924194,
+          -37.82299735426599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9657154083252,
+            -37.80774960805067
+          ],
+          [
+            144.96575832366943,
+            -37.80697823759907
+          ],
+          [
+            144.96441721916196,
+            -37.806851087849985
+          ],
+          [
+            144.9641382694244,
+            -37.807156246879984
+          ],
+          [
+            144.96293663978577,
+            -37.807461404648954
+          ],
+          [
+            144.96383786201477,
+            -37.80958052103703
+          ],
+          [
+            144.9655544757843,
+            -37.80913974983743
+          ],
+          [
+            144.96625185012817,
+            -37.80893631608868
+          ],
+          [
+            144.96992111206055,
+            -37.81656469809118
+          ],
+          [
+            144.96996402740479,
+            -37.81667488005653
+          ],
+          [
+            144.96745347976685,
+            -37.81739529654627
+          ],
+          [
+            144.96962070465088,
+            -37.82236174126477
+          ],
+          [
+            144.9698996543884,
+            -37.82331092133023
+          ],
+          [
+            144.96869802474976,
+            -37.82363296179326
+          ],
+          [
+            144.96765732765198,
+            -37.823421093225726
+          ]
+        ]
+      }
+    }
+  ]
+}
